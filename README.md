@@ -9,7 +9,7 @@
     /guiitems
 ```
 
-### heal
-    - Heals the player that executes the command
-### feed
+### /heal
+    [-] Heals the player that executes the command
+### /feed
     - Feeds the player that executes the command
