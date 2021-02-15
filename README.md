@@ -9,7 +9,7 @@ ___
 - [ ] Make the change teams item actually put you in a new team
 - [ ] More Items
 - [ ] More Item Abilities
-___
+
 
 ## Commands
 ___
